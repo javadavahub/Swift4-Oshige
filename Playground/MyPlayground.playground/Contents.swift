@@ -5,3 +5,5 @@ str = "こんにちは！"
 
 let who = "Ebosy"
 str = who + "さん、" + str
+
+print(str)
