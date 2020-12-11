@@ -13,4 +13,5 @@ print(#line)
 print(#column)
 print(#function)
 
+// アンダースコアで数字を見やすく
 print(2_020)
