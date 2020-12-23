@@ -13,7 +13,7 @@ func price2 (num: Int, unitPrice: Int) -> Int {
     let result = num * unitPrice
     return result
 }
- let totalPrice2 = price2(num: 2, unitPrice: 250)
+let totalPrice2 = price2(num: 2, unitPrice: 250)
 print(totalPrice2)
 
 // 可変長引数 - Variable length argument
