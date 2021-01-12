@@ -13,7 +13,7 @@ print(os)
 let message2 = "hello" + String(2000 + 21)
 print(message2)
 
-// 文字を繰り返したストリング
+// 文字を繰り返したストリングを作る
 let stars = String(repeating: "☆", count: 10)
 print(stars)
 
