@@ -1,5 +1,16 @@
 import UIKit
 
+// 配列と for-in
+var friends = ["tony", "jim"]
+for name in friends {
+    print(name)
+}
+
+// 数値範囲と for-in
+for i in 1...3 {
+    print(i)
+}
+
 // 単に処理を繰り返す回数を指定したいだけの場合
 for _ in 1...3 {
     let num = Int.random(in: 0...10)
