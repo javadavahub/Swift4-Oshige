@@ -42,6 +42,13 @@ struct Animal {
 var dog = Animal(age: 1, kind: "犬")
 dog.Bite()
 
+/**
+ 構造体の配列
+ var 配列名:[構造体] = [
+   構造体(),
+   構造体()
+ ]
+ */
 var animals:[Animal] = [
     Animal(age: 8, kind: "虎"),
     Animal(age: 7, kind: "ワニ")
