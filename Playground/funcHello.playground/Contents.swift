@@ -1,6 +1,6 @@
 import UIKit
 
-// 戻り値 なし
+// 引数と戻り値なし
 func hello1 () {
     print("hello1")
 }
